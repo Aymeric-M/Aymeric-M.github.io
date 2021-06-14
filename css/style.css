@@ -1,0 +1,33 @@
+body {
+    background-color: aliceblue;
+    text-align: center;
+}
+
+h1 {
+    font-size: 2em;
+    box-sizing: border-box;
+    background-color: antiquewhite;
+
+}
+
+.txt-blue{
+    color: darkslategray;
+}
+
+.txt-rouge{
+    color: brown;
+}
+
+strong{
+    font-weight: normal;
+}
+
+
+
+
+
+
+
+
+
+
